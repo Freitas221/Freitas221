@@ -7,7 +7,7 @@
 - Android: (https://freitas221.github.io/android/): Explicação breve sobre a história do Android.
 - Calculadora: (https://freitas221.github.io/calculadora/): Um pequena calculadora.
 - Lista de Tarefas: (https://freitas221.github.io/lista-de-tarefas/): Uma lista onde suas tarefas ficam salvas.
-- Projetos JAVA: (https://github.com/Freitas221/projects-Java): Repositório JAVA.
+- Projetos JAVA: (https://github.com/Freitas221/projects-Java): Repositório contendo várias aplicações JAVA.
 
 ### Vamos nos conectar!
 - Linkedin: (https://www.linkedin.com/in/marcos-freitas-283282248/)
