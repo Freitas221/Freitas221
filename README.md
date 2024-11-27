@@ -1,5 +1,5 @@
  ### Olá! 👋
-- Sou **Marcos Freitas**, um desenvolvedor apaixonado pelo que faço e com experiência em JAVA, HTML5 e CSS3 e JavaScript.
+- Sou **Marcos Freitas**, um desenvolvedor apaixonado pelo que faço, com experiência em JAVA, HTML5 e CSS3 e JavaScript.
 
 - Atualmente, trabalho como profissional de informática na FAB.🌟
 
