@@ -1,7 +1,7 @@
  ### Olá! 👋
 - Sou **Marcos Freitas**, um desenvolvedor apaixonado pelo que faço, com experiência em JAVA, HTML5 e CSS3 e JavaScript.
 
-- Atualmente, trabalho como profissional de informática na FAB.🌟
+- Atualmente trabalho como profissional de informática na FAB.🌟
 
 ### Projetos em Destaque
 - Android: (https://freitas221.github.io/android/): Explicação breve sobre a história do Android.
