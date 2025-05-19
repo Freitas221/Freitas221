@@ -9,7 +9,7 @@
 - **Tela de login**: (https://freitas221.github.io/telaLogin/): Tela de login com responsividade.
 - **Social**: (https://freitas221.github.io/social/): Apresentação das minhas Redes Sociais.
 - **Projetos JAVA**: (https://github.com/Freitas221/projects-Java): Repositório contendo várias aplicações JAVA.
-- **Projeto JAVA** com **Banco de Dados**: (https://github.com/Freitas221/projects-java/tree/main/demo-dao-jdbc/src).
+- **Projeto JAVA** com **Spring / Hibernate / JPA**: (https://github.com/Freitas221/projects-java/tree/main/demo-dao-jdbc/src).
 
 ### Vamos nos conectar!
 - Linkedin: (https://www.linkedin.com/in/marcos-freitas-283282248/)
