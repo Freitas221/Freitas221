@@ -12,5 +12,5 @@
 - **Projeto JAVA** com **Spring / Hibernate / JPA**: (https://github.com/Freitas221/workshop-springboot3-jpa).
 
 ### Vamos nos conectar!
-- Linkedin: (https://www.linkedin.com/in/marcos-freitas-283282248/)
-- Email: (marcosfreitas7542@gmail.com)
+- Linkedin: (https://www.linkedin.com/in/marcos-freitas-283282248/).
+- Email: (marcosfreitas7542@gmail.com).
