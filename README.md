@@ -9,7 +9,7 @@
 - **Calculadora**: (https://freitas221.github.io/calculadora/): Uma pequena calculadora.
 - **Tela de login**: (https://freitas221.github.io/telaLogin/): Tela de login com responsividade.
 - **Social**: (https://freitas221.github.io/social/): Apresentação das minhas Redes Sociais.
-- **Projetos JAVA**: (https://github.com/Freitas221/projects-Java): Repositório contendo várias aplicações JAVA.
+- **Projetos JAVA**: (https://github.com/Freitas221/projects-Java): Repositório contendo algumas aplicações JAVA durante minha trajetória.
 - **Projeto Biblioteca** (https://github.com/Freitas221/library-api-spring): Projeto simulando uma API de biblioteca.
 
 ### Vamos nos conectar!
